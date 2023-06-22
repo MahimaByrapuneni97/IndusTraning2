@@ -13,9 +13,8 @@ public class Calc{
 	public double addtion(double parmeter1, double parmeter2)
 	{
 	double result =0.0;	
-	{
 	result = parmeter1+parmeter2;
-	}
+	
 return result;
 
 }
