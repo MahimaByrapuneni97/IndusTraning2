@@ -1,0 +1,2 @@
+# IndusTraning
+Basic java program 
