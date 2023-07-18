@@ -1,4 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.indus.training.basics.Calc"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="com.indus.traning.service.CalciInhertiance"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
+    <fullyQualifiedTypeName name="com.indus.traning.expection.CalciExpection"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="TestCalci"/>
+    <fullyQualifiedTypeName name="com.indus.traning.service.ICalci"/>
+    <fullyQualifiedTypeName name="com.indus.traning.serviceimpl.Calci"/>
+    <fullyQualifiedTypeName name="com.indus.traning.exception.CalciException"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.basics.Lock"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.basics.Lock.Key"/>
+    <fullyQualifiedTypeName name="javax.swing.DefaultBoundedRangeModel"/>
+    <fullyQualifiedTypeName name="javax.management.remote.SubjectDelegationPermission"/>
+    <fullyQualifiedTypeName name="com.indus.traning.domain.CalciInput"/>
+    <fullyQualifiedTypeName name="com.indus.traning.domain.CalciOutput"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="com.indus.pratice.basics.Calci"/>
+    <fullyQualifiedTypeName name="com.indus.traning.domain.Input"/>
+    <fullyQualifiedTypeName name="com.indus.traning.domain.Output"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.OutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="com.indus.traning.basics.Input_Output"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="com.indus.traning.basics.InputOutput"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.indus.traning.dpsingleton.DBConnection"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
 </qualifiedTypeNameHistroy>

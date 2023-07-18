@@ -2,6 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Indus\Workspaces\Traning\InputOutput\src\main\resources\OutPutFile.txt"/>
+			<item value="C:\Indus\Workspaces\Traning\IndusTraning\src\main\java\com\indus\pratice\basics\Calci.java"/>
+			<item value="C:\Indus\Workspaces\Traning\AcessSpecifer\src\test\java\com\indus\traning\domain\TestCalci.java"/>
+			<item value="C:\Indus\Workspaces\Traning\BasicJavaProgram"/>
+			<item value="C:\Indus\Workspaces\Traning\ICalci\src\main\java\com\indus\traning\service\ICalci.java"/>
+			<item value="C:\Indus\Workspaces\Traning\Calci\src\main\java\com\indus\traning\domain\CalciOutput.java"/>
+			<item value="C:\Indus\Workspaces\Traning\BasicJavaProgram\src\main\java\com\indus\training\basics\Calc.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -48,7 +55,8 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="BasicJavaProgram"/>
+			<item value="DesignPatternsSingleton"/>
+			<item value="CharacterStream"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -61,5 +69,9 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>
